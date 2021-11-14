@@ -1,0 +1,18 @@
+{
+  "name": "jsscript",
+  "version": "1.0.0",
+  "main": "main.js",
+  "dependencies": {
+    "@google-cloud/vision": "^2.4.0",
+    "express": "^4.17.1",
+    "pi-camera": "^1.6.0",
+    "rpi-gpio": "^2.1.7"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
