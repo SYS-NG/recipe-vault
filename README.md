@@ -4,7 +4,7 @@ Captures images through PiCamera module and Raspberry Pi 4.
 
 Backend code transfering ingredients compiled by google cloud vision to API endpoint.
 
-Frontend code: [here](github.com/lukesno/recipe-vault)
+Frontend code: [here](https://github.com/lukesno/recipe-vault)
 
 To run program, run `node /main.js` in src directory and access endpoint at `localhost:3000/get_ingredients`.
 
